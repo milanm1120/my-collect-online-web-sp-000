@@ -11,5 +11,5 @@ def my_collect(array)
   else
     true
   end
-    collection
+    array
 end

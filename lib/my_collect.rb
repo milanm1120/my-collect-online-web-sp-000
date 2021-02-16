@@ -11,5 +11,5 @@ def my_collect(collection)
   else
     true
   end
-    collection
+    collection.upcase
 end

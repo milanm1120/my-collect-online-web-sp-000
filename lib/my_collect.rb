@@ -11,6 +11,5 @@ def my_collect(collection)
   else
     true
   end
-    collection
-  
+    return_values.upcase
 end
